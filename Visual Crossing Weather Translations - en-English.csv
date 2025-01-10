@@ -1,0 +1,128 @@
+address,Address
+clear,clear conditions throughout the day
+clearingpm,clearing in the afternoon
+cloudcover,Cloud Cover
+cloudierpm,becoming cloudy in the afternoon
+coolingdown,cooling down
+dew,Dew Point
+dow1,Monday
+dow2,Tuesday
+dow3,Wednesday
+dow4,Thursday
+dow5,Friday
+dow6,Saturday
+dow7,Sunday
+estprecip,Estimated precipitation
+heatindex,Heat Index
+humidity,Relative Humidity
+id,desc
+latlon,Latitude & Longitude
+maxt,Maximum Temperature
+mint,Minimum Temperature
+mostdays,multiple days
+norain,no rain expected
+overcast,cloudy skies throughout the day
+pop,Chance Precipitation (%)
+precip,Precipitation
+precipcover,Precipitation Cover
+rainallday,a chance of rain throughout the day
+rainam,morning rain
+rainampm,rain in the morning and afternoon
+rainchance,a chance of rain
+rainclearinglater,rain clearing later
+raindays,a chance of rain
+raindefinite,rain
+rainearlyam,early morning rain
+rainlatepm,late afternoon rain
+rainpm,afternoon rain
+rainsnowallday,a chance of rain or snow throughout the day
+rainsnowam,morning rain or snow
+rainsnowampm,rain or snow in the morning and afternoon
+rainsnowchance,a chance of rain or snow
+rainsnowclearinglater,rain or snow clearing later
+rainsnowdefinite,rain or snow
+rainsnowearlyam,early morning snow or rain
+rainsnowlatepm,late afternoon rain or snow
+rainsnowpm,afternoon rain or snow
+sealevelpressure,Sea Level Pressure
+similartemp,similar temperatures continuing
+sky,Sky cover
+sky,%s.
+skyprecip,%s with %s.
+skytempprecip,%s and %s with %s.
+snow,Snow
+snowallday,a chance of snow throughout the day
+snowam,morning snow
+snowampm,snow in the morning and afternoon
+snowchance,a chance of snow
+snowclearinglater,snow clearing later
+snowdays,a chance of snow
+snowdefinite,snow
+snowdepth,Snow Depth
+snowearlyam,early morning snow
+snowlatepm,late afternoon snow
+snowpm,afternoon snow
+solarenergy,Solar Energy
+solarradiation,Solar Radiation
+stationdistance,Mean Station Distance
+stationInfo,Contributing Stations
+stormspossible,storms possible
+stormsstrong,strong storms possible
+sunshine,Sunshine
+temp,Temperature
+tempprecipweek,%s with %s.
+tempweek,%s.
+today,today
+tomorrow,tomorrow
+type_1,Blowing Or Drifting Snow
+type_10,Heavy Freezing Drizzle/Freezing Rain
+type_11,Light Freezing Drizzle/Freezing Rain
+type_12,Freezing Fog
+type_13,Heavy Freezing Rain
+type_14,Light Freezing Rain
+type_15,Funnel Cloud/Tornado
+type_16,Hail Showers
+type_17,Ice
+type_18,Lightning Without Thunder
+type_19,Mist
+type_2,Drizzle
+type_20,Precipitation In Vicinity
+type_21,Rain
+type_22,Heavy Rain And Snow
+type_23,Light Rain And Snow
+type_24,Rain Showers
+type_25,Heavy Rain
+type_26,Light Rain
+type_27,Sky Coverage Decreasing
+type_28,Sky Coverage Increasing
+type_29,Sky Unchanged
+type_3,Heavy Drizzle
+type_30,Smoke Or Haze
+type_31,Snow
+type_32,Snow And Rain Showers
+type_33,Snow Showers
+type_34,Heavy Snow
+type_35,Light Snow
+type_36,Squalls
+type_37,Thunderstorm
+type_38,Thunderstorm Without Precipitation
+type_39,Diamond Dust
+type_4,Light Drizzle
+type_40,Hail
+type_41,Overcast
+type_42,Partially cloudy
+type_43,Clear
+type_5,Heavy Drizzle/Rain
+type_6,Light Drizzle/Rain
+type_7,Dust storm
+type_8,Fog
+type_9,Freezing Drizzle/Freezing Rain
+variablecloud,partly cloudy throughout the day
+visibility,Visibility
+warmingup,warming up
+wdir,Wind direction
+wdir,Wind Direction
+weatherType,Weather Type
+wgust,Wind Gust
+windchill,Wind Chill
+wspd,Wind Speed

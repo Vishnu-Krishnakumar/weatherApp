@@ -3,9 +3,23 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <script type="text/javascript" src="main.js" defer></script>
     <link rel="stylesheet" href="styles.css" />
-    <script src="main.js"></script>
+    <title>Document</title>
   </head>
-  <body></body>
+  <body>
+    <form>
+      <label for="location">Location:</label><br />
+      <input type="text" id="location" name="location" /><br />
+    </form>
+    <button id="submit">Submit</button>
+    <h2 id="error"></h2>
+    <div id="weatherInfo">
+      <h2 id="city"></h2>
+      <h3 id="temperature"></h3>
+      <h3 id="condition"></h3>
+      <h3 id="sunrise"></h3>
+      <h3 id="sunset"></h3>
+    </div>
+  </body>
 </html>
