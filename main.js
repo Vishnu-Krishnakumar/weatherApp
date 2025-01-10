@@ -69,7 +69,7 @@ async function weatherProcess(response) {
 
     console.log(alertsData);
     weather = {
-        address: data.address,
+        address: data.resolvedAddress,
         temp: data.days[0].temp,
         alerts: alertsData,
         datetime: data.days[0].datetime,
